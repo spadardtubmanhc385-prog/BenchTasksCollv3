@@ -1,1 +1,1 @@
-VGhpcyBpcyBhbiB1c2VyIHN5c3RlbSBwcm9tcHQgZm9yIGltYWdlLXByb2Nlc3Nvcgo=
+This is an user system prompt for image-processor

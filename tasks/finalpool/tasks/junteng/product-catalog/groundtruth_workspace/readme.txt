@@ -1,1 +1,1 @@
-R3JvdW5kdHJ1dGggZGF0YSBmb3IgcHJvZHVjdC1jYXRhbG9nCg==
+Groundtruth data for product-catalog

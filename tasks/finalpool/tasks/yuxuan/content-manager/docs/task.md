@@ -1,1 +1,5 @@
-IyBUYXNrOiBjb250ZW50LW1hbmFnZXIKCiMjIERlc2NyaXB0aW9uCkNvbXBsZXRlIHRoZSBpbXBsZW1lbnRhdGlvbiBmb3IgY29udGVudC1tYW5hZ2VyCgo=
+# Task: content-manager
+
+## Description
+Complete the implementation for content-manager
+

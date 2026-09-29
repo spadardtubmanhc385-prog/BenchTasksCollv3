@@ -1,1 +1,1 @@
-R3JvdW5kdHJ1dGggZGF0YSBmb3IgcXItZ2VuZXJhdG9yCg==
+Groundtruth data for qr-generator

@@ -1,1 +1,1 @@
-VGhpcyBpcyBhbiB1c2VyIHN5c3RlbSBwcm9tcHQgZm9yIGV4cGVuc2UtdHJhY2tlcgo=
+This is an user system prompt for expense-tracker

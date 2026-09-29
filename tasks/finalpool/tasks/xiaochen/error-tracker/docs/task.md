@@ -1,1 +1,5 @@
-IyBUYXNrOiBlcnJvci10cmFja2VyCgojIyBEZXNjcmlwdGlvbgpDb21wbGV0ZSB0aGUgaW1wbGVtZW50YXRpb24gZm9yIGVycm9yLXRyYWNrZXIKCg==
+# Task: error-tracker
+
+## Description
+Complete the implementation for error-tracker
+

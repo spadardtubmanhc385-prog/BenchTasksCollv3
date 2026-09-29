@@ -1,1 +1,1 @@
-SW5pdGlhbCB3b3Jrc3BhY2UgZm9yIGNvbnRlbnQtbWFuYWdlcgo=
+Initial workspace for content-manager

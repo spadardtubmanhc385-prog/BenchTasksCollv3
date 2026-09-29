@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciB0cmFuc2xhdGlvbi1hcGkgaW4gYSBiZWF1dGlmdWwgd2F5IQo=
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for translation-api in a beautiful way!

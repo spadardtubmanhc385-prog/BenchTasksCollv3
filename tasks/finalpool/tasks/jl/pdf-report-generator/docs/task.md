@@ -1,1 +1,5 @@
-IyBUYXNrOiBwZGYtcmVwb3J0LWdlbmVyYXRvcgoKIyMgRGVzY3JpcHRpb24KQ29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBwZGYtcmVwb3J0LWdlbmVyYXRvcgoK
+# Task: pdf-report-generator
+
+## Description
+Complete the implementation for pdf-report-generator
+

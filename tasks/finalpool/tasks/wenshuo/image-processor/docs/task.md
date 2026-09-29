@@ -1,1 +1,5 @@
-IyBUYXNrOiBpbWFnZS1wcm9jZXNzb3IKCiMjIERlc2NyaXB0aW9uCkNvbXBsZXRlIHRoZSBpbXBsZW1lbnRhdGlvbiBmb3IgaW1hZ2UtcHJvY2Vzc29yCgo=
+# Task: image-processor
+
+## Description
+Complete the implementation for image-processor
+

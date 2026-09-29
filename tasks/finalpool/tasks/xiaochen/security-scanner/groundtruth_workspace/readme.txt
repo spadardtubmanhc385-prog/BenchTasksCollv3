@@ -1,1 +1,1 @@
-R3JvdW5kdHJ1dGggZGF0YSBmb3Igc2VjdXJpdHktc2Nhbm5lcgo=
+Groundtruth data for security-scanner

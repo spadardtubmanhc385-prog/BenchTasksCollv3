@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBwcmljZS10cmFja2VyIGluIGEgYmVhdXRpZnVsIHdheSEK
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for price-tracker in a beautiful way!

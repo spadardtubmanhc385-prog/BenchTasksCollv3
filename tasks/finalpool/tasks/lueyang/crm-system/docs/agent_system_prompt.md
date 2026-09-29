@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBjcm0tc3lzdGVtIGluIGEgYmVhdXRpZnVsIHdheSEK
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for crm-system in a beautiful way!

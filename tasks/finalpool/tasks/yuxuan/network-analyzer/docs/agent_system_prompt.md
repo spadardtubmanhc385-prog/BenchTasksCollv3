@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBuZXR3b3JrLWFuYWx5emVyIGluIGEgYmVhdXRpZnVsIHdheSEK
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for network-analyzer in a beautiful way!

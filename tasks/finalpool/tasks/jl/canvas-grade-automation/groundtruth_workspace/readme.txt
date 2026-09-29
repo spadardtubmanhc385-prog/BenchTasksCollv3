@@ -1,1 +1,1 @@
-R3JvdW5kdHJ1dGggZGF0YSBmb3IgY2FudmFzLWdyYWRlLWF1dG9tYXRpb24K
+Groundtruth data for canvas-grade-automation

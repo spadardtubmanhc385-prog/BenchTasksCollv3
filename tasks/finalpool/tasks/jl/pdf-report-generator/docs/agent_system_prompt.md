@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBwZGYtcmVwb3J0LWdlbmVyYXRvciBpbiBhIGJlYXV0aWZ1bCB3YXkhCg==
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for pdf-report-generator in a beautiful way!

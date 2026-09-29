@@ -1,1 +1,5 @@
-IyBUYXNrOiB2aWRlby10cmltbWVyCgojIyBEZXNjcmlwdGlvbgpDb21wbGV0ZSB0aGUgaW1wbGVtZW50YXRpb24gZm9yIHZpZGVvLXRyaW1tZXIKCg==
+# Task: video-trimmer
+
+## Description
+Complete the implementation for video-trimmer
+

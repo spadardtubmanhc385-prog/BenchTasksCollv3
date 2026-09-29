@@ -1,1 +1,5 @@
-IyBUYXNrOiBxci1nZW5lcmF0b3IKCiMjIERlc2NyaXB0aW9uCkNvbXBsZXRlIHRoZSBpbXBsZW1lbnRhdGlvbiBmb3IgcXItZ2VuZXJhdG9yCgo=
+# Task: qr-generator
+
+## Description
+Complete the implementation for qr-generator
+

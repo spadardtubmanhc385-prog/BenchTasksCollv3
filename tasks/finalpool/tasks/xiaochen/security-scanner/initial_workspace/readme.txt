@@ -1,1 +1,1 @@
-SW5pdGlhbCB3b3Jrc3BhY2UgZm9yIHNlY3VyaXR5LXNjYW5uZXIK
+Initial workspace for security-scanner

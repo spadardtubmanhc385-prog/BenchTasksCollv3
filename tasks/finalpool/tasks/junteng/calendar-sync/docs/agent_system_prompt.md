@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBjYWxlbmRhci1zeW5jIGluIGEgYmVhdXRpZnVsIHdheSEK
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for calendar-sync in a beautiful way!

@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBjb250ZW50LXNjaGVkdWxlciBpbiBhIGJlYXV0aWZ1bCB3YXkhCg==
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for content-scheduler in a beautiful way!

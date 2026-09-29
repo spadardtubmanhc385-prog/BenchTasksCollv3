@@ -1,1 +1,1 @@
-VGhpcyBpcyBhbiB1c2VyIHN5c3RlbSBwcm9tcHQgZm9yIGNvbnRlbnQtbWFuYWdlcgo=
+This is an user system prompt for content-manager

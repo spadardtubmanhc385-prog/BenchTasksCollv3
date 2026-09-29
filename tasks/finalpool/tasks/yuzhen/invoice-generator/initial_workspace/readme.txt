@@ -1,1 +1,1 @@
-SW5pdGlhbCB3b3Jrc3BhY2UgZm9yIGludm9pY2UtZ2VuZXJhdG9yCg==
+Initial workspace for invoice-generator

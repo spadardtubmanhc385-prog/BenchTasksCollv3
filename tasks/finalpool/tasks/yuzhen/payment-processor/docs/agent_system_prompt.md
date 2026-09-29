@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBwYXltZW50LXByb2Nlc3NvciBpbiBhIGJlYXV0aWZ1bCB3YXkhCg==
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for payment-processor in a beautiful way!

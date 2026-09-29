@@ -1,1 +1,5 @@
-IyBUYXNrOiBzdWJ0aXRsZS1nZW5lcmF0b3IKCiMjIERlc2NyaXB0aW9uCkNvbXBsZXRlIHRoZSBpbXBsZW1lbnRhdGlvbiBmb3Igc3VidGl0bGUtZ2VuZXJhdG9yCgo=
+# Task: subtitle-generator
+
+## Description
+Complete the implementation for subtitle-generator
+

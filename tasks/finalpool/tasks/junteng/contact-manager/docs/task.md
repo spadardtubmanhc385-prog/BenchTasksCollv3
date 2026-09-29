@@ -1,1 +1,5 @@
-IyBUYXNrOiBjb250YWN0LW1hbmFnZXIKCiMjIERlc2NyaXB0aW9uCkNvbXBsZXRlIHRoZSBpbXBsZW1lbnRhdGlvbiBmb3IgY29udGFjdC1tYW5hZ2VyCgo=
+# Task: contact-manager
+
+## Description
+Complete the implementation for contact-manager
+

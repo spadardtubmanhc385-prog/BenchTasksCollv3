@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBjYW52YXMtYXV0b21hdGlvbiBpbiBhIGJlYXV0aWZ1bCB3YXkhCg==
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for canvas-automation in a beautiful way!

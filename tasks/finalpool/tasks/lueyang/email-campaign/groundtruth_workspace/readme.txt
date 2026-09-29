@@ -1,1 +1,1 @@
-R3JvdW5kdHJ1dGggZGF0YSBmb3IgZW1haWwtY2FtcGFpZ24K
+Groundtruth data for email-campaign

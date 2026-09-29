@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBzaGlwbWVudC10cmFja2VyIGluIGEgYmVhdXRpZnVsIHdheSEK
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for shipment-tracker in a beautiful way!

@@ -1,1 +1,1 @@
-VGhpcyBpcyBhbiB1c2VyIHN5c3RlbSBwcm9tcHQgZm9yIGVtYWlsLWNhbXBhaWduCg==
+This is an user system prompt for email-campaign

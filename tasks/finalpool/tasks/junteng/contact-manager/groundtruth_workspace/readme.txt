@@ -1,1 +1,1 @@
-R3JvdW5kdHJ1dGggZGF0YSBmb3IgY29udGFjdC1tYW5hZ2VyCg==
+Groundtruth data for contact-manager

@@ -1,1 +1,4 @@
-IyBBZ2VudCBTeXN0ZW0gUHJvbXB0CgojIyBHZW5lcmFsIFJlcXVpcmVtZW50cwpQbGVhc2UgY29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBleHBlbnNlLXRyYWNrZXIgaW4gYSBiZWF1dGlmdWwgd2F5IQo=
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for expense-tracker in a beautiful way!

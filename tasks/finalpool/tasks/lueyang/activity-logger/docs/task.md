@@ -1,1 +1,5 @@
-IyBUYXNrOiBhY3Rpdml0eS1sb2dnZXIKCiMjIERlc2NyaXB0aW9uCkNvbXBsZXRlIHRoZSBpbXBsZW1lbnRhdGlvbiBmb3IgYWN0aXZpdHktbG9nZ2VyCgo=
+# Task: activity-logger
+
+## Description
+Complete the implementation for activity-logger
+

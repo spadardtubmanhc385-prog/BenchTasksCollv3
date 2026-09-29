@@ -1,1 +1,1 @@
-VGhpcyBpcyBhbiB1c2VyIHN5c3RlbSBwcm9tcHQgZm9yIGJvb2tpbmctc3lzdGVtCg==
+This is an user system prompt for booking-system

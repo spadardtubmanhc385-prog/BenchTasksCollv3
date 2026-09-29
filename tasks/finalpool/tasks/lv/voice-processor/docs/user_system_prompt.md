@@ -1,1 +1,1 @@
-VGhpcyBpcyBhbiB1c2VyIHN5c3RlbSBwcm9tcHQgZm9yIHZvaWNlLXByb2Nlc3Nvcgo=
+This is an user system prompt for voice-processor

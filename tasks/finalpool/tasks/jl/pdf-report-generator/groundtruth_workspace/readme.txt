@@ -1,1 +1,1 @@
-R3JvdW5kdHJ1dGggZGF0YSBmb3IgcGRmLXJlcG9ydC1nZW5lcmF0b3IK
+Groundtruth data for pdf-report-generator

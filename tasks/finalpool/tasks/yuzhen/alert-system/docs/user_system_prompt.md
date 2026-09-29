@@ -1,1 +1,1 @@
-VGhpcyBpcyBhbiB1c2VyIHN5c3RlbSBwcm9tcHQgZm9yIGFsZXJ0LXN5c3RlbQo=
+This is an user system prompt for alert-system

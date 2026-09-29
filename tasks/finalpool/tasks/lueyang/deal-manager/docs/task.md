@@ -1,1 +1,5 @@
-IyBUYXNrOiBkZWFsLW1hbmFnZXIKCiMjIERlc2NyaXB0aW9uCkNvbXBsZXRlIHRoZSBpbXBsZW1lbnRhdGlvbiBmb3IgZGVhbC1tYW5hZ2VyCgo=
+# Task: deal-manager
+
+## Description
+Complete the implementation for deal-manager
+

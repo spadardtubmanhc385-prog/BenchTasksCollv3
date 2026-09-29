@@ -1,1 +1,5 @@
-IyBUYXNrOiBzYWxlcy1waXBlbGluZQoKIyMgRGVzY3JpcHRpb24KQ29tcGxldGUgdGhlIGltcGxlbWVudGF0aW9uIGZvciBzYWxlcy1waXBlbGluZQoK
+# Task: sales-pipeline
+
+## Description
+Complete the implementation for sales-pipeline
+

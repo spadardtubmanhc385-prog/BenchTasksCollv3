@@ -1,1 +1,2 @@
-IyBQcmVwcm9jZXNzaW5nIHNjcmlwdApwcmludCgnUHJlcHJvY2Vzc2luZyBjb21wbGV0ZWQnKQo=
+# Preprocessing script
+print('Preprocessing completed')

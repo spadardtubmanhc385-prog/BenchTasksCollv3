@@ -1,1 +1,1 @@
-SW5pdGlhbCB3b3Jrc3BhY2UgZm9yIGFjdGl2aXR5LWxvZ2dlcgo=
+Initial workspace for activity-logger

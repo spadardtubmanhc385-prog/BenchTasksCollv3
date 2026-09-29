@@ -1,1 +1,1 @@
-VGhpcyBpcyBhbiB1c2VyIHN5c3RlbSBwcm9tcHQgZm9yIGNvbnRhY3QtbWFuYWdlcgo=
+This is an user system prompt for contact-manager

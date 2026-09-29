@@ -1,1 +1,1 @@
-VGhpcyBpcyBhbiB1c2VyIHN5c3RlbSBwcm9tcHQgZm9yIHBkZi1yZXBvcnQtZ2VuZXJhdG9yCg==
+This is an user system prompt for pdf-report-generator
